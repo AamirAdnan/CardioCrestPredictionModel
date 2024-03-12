@@ -33,5 +33,3 @@ Submit a pull request.
 Issues
 If you encounter any issues or have suggestions, please open an issue.
 
-# License
-This project is licensed under the MIT License.
